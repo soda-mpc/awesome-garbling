@@ -2,7 +2,10 @@
 A curated list of resources about garbling schemes and garbling protocols
 
 
-## Garbled Circuit (GC) synthesis and size optimizations
+## Garbled Circuit (GC) size optimizations
+
+
+## Garbled Circuit (GC) efficient synthesis
 - TinyGarble: Highly Compressed and Scalable Sequential Garbled Circuits [paper](https://encrypto.de/papers/SHSSK15.pdf)
 
 

@@ -3,6 +3,9 @@ A curated list of resources about garbling schemes and garbling protocols
 
 
 ## Garbled Circuit (GC) size optimizations
+- The Free-XOR paper: Improved garbled circuit: Free xor gates and applications: [paper](https://www.cs.toronto.edu/~vlad/papers/XOR_ICALP08.pdf)
+- FleXOR: Flexible garbling for XOR gates that beats free-XOR.[paper](https://eprint.iacr.org/2014/460.pdf)
+- An algebraic approach to garbling: [slides and talk](https://simons.berkeley.edu/talks/whole-greater-sum-its-parts-linear-garbling-applications)
 
 
 ## Garbled Circuit (GC) efficient synthesis

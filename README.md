@@ -30,3 +30,4 @@ A curated list of resources about garbling schemes and garbling protocols
 - Chameleon: A hybrid secure computation framework for machine learning applications: [paper](https://eprint.iacr.org/2017/1164.pdf)
 - Generalized universal circuits for secure evaluation of private functions with application to data classification: [paper](https://eprint.iacr.org/2008/453.pdf)
 - Xonn: Xnor-based oblivious deep neural network inference. [paper](https://eprint.iacr.org/2019/171.pdf)
+- SIRNN: A Math Library for Secure RNN Inference. [paper](https://eprint.iacr.org/2021/459.pdf)
